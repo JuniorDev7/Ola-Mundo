@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro Repositoriocurso de Guit e GuitHub
+# Olá Mundo!
+ Primeiro Repositorio do curso de Guit e GuitHub
+
+Repositorio criado durante uma aula ao vivo
